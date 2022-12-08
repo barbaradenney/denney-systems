@@ -5,8 +5,8 @@ keywords:
 comments: false
 
 # Hero section
-title: Page title
-description: Page description
+title: Design system sprint
+description: When you want to make a lot of progress really fast. Have a design system sprint. 
 
 # Author box
 author:
@@ -28,4 +28,4 @@ page_nav:
         url: '#'
 ---
 
-Write your markdown here ...
+We had a lot of components to audit with only a small amount of time. How can you do a lot in a little amount of time? Have a design system sprint. Block off a time for all your design teams to focus on the design system for two weeks.

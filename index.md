@@ -4,12 +4,9 @@ layout: homepage
 keywords:
 
 # Hero section
-title: Project name
-description: Project description
+title: Barbara Denney
+description: Hi! I'm a UX Designer with a focus on crafting Design Systems. There is so much to love about designs systems and I enjoy working on all of it. From the design, development, community engagement, product managment, and communication. 
 buttons:
-    - content: Button
-      url: '#'
-      external_url: false
     - icon: github
       content: Button with icon
       url: '#'
@@ -17,15 +14,27 @@ buttons:
 
 # Author box
 author:
-    title: About Author
+    title: About
     title_url: '#'
     external_url: true
-    description: Author description
+    description: 
 
 # Grid navigation
 grid_navigation:
-    - title: Grid navigation
+    - title: Design system design sprint
       excerpt: Section description
       cta: Read more
-      url: '#'
+      url: 'ds-sprint'
+    - title: Medicare design system
+      excerpt: Section description
+      cta: Read more
+      url: 'medicare-design-system'
+    - title: CMS Design System
+      excerpt: Section description
+      cta: Read more
+      url: 'cms-design-system'
+    - title: Design system metrics
+      excerpt: Section description
+      cta: Read more
+      url: 'design-system-metrics'
 ---
